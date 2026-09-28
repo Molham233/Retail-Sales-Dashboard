@@ -1,7 +1,7 @@
 # 📊 Retail Sales Performance & Customer Analytics
 
 ## 🎯 1. The Problem & Business Question
-Retail businesses often struggle to identify revenue drivers, track temporal sales fluctuations, and understand customer purchasing behaviors across demographic segments[cite: 9, 10]. 
+Retail businesses often struggle to identify revenue drivers, track temporal sales fluctuations, and understand customer purchasing behaviors across demographic segments. 
 
 **Key Business Questions Addressed:**
 - What are the primary revenue drivers and top-performing product categories?
@@ -20,7 +20,7 @@ The analysis utilizes a structured retail dataset containing transactional and d
 
 ---
 
-## 🛠️ 3. Your Approach & Methodology
+## 🛠️ 3. My Approach & Methodology
 To deliver a robust and scalable solution, the project followed these analytical phases:
 
 1. **Data Cleaning & Transformation (Power Query):**
